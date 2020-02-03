@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588706048599",
+    "firebase_url": "https://hexagon-lapse-78918.firebaseio.com",
+    "project_id": "hexagon-lapse-78918",
+    "storage_bucket": "hexagon-lapse-78918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588706048599:android:66bbc0d017889901605112",
+        "android_client_info": {
+          "package_name": "com.StecEntertainment.HexagonLapse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588706048599-8p4vh343jampo3gja8f4jfaht6pso6et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqzhu1TJA-2mZ5pGSm5qQb1Z_LGTmUNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588706048599-8p4vh343jampo3gja8f4jfaht6pso6et.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588706048599-d8de2v3j54u82or001f21tpn2da8p1lg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.StecEntertainment.HexagonLapse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

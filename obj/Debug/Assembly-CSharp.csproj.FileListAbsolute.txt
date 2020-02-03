@@ -1,0 +1,2 @@
+C:\UnityProjects\VertigoDemoProject_V1.0\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\UnityProjects\VertigoDemoProject_V1.0\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
